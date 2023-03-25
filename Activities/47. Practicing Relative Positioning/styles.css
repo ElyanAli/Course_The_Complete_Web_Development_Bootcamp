@@ -1,0 +1,24 @@
+div {
+    height: 200px;
+    width: 200px;
+    /* display: inline-block; */
+    position: relative;
+
+}
+
+.r {
+    background-color: red;
+    /* position: relative; */
+    left: 410px;
+    /* position: fixed; */
+}
+
+.b {
+    right: 200px;
+    background-color: blue;
+}
+
+.y {
+    background-color: yellow;
+    right: 200px;
+}
